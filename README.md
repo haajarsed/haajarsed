@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Haajar
-- 👀 Thriving at the intersection of tech and data in in dynamic sphere of Accounting & Finance. My passion for digital transformation fuels a drive for automation, enabling data-driven insights that redefine strategies and elevate decision-making.
+- 👀 Analytics, Automation, Finance
 - 🌱 I’m currently learning and honing my skills in SQL, Python, Power BI, Power Platform, Cloud Computing (Azure, AWS)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
