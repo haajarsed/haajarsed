@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Haajar
-- 👀 Analytics, Automation, Finance
+- 👀 Business Intelligence, Analytics, Automation, Finance
 - 🌱 I’m currently learning and honing my skills in SQL, Python, Power BI, Power Platform, Cloud Computing (Azure, AWS)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
