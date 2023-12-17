@@ -1,8 +1,7 @@
-## Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">, it's Haajar!
+## Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">, i'm Haajar!
 
-- 👀 Business Intelligence, Analytics, Automation, Finance
-- 🌱 I’m currently learning and honing my skills in SQL, Python, Power BI, Power Platform, Cloud Computing (Azure, AWS)
-- 💞️ I’m looking to collaborate on ...
+- 👀 Skilled and interested in finance, business intelligence, analytics, data engineering, automation, Lean Six Sigma and Kaizen methodologies for sustained enhancements.
+- 🌱 I’m currently honing my skills in SQL, Python, Power BI, Power Platform, Fabrics, Azure
 - 📫 How to reach me ...
 
 Cheers! ☕
