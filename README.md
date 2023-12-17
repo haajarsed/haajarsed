@@ -1,6 +1,6 @@
 ## Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">, i'm Haajar!
 
-- 👀 Skilled and interested in finance, business intelligence, analytics, data engineering, automation, Lean Six Sigma and Kaizen methodologies for sustained enhancements.
+- 🪴 Interested in finance, business intelligence, analytics, data engineering, automation with Lean Six Sigma and Kaizen methodologies for sustained enhancements.
 - 🌱 I’m currently honing my skills in SQL, Python, Power BI, Power Platform, Fabrics, Azure
 - 📫 How to reach me ...
 
